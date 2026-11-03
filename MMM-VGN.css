@@ -1,0 +1,21 @@
+.MMM-VGN .vgn-table { border-collapse: collapse; line-height: 1.35; }
+.MMM-VGN .vgn-table td { padding: 0.15em 0.35em; vertical-align: top; white-space: nowrap; text-align: left; }
+.MMM-VGN .vgn-dep .vgn-time { color: #fff; }
+.MMM-VGN .vgn-delay { color: #ff4d4d; font-weight: bold; }
+.MMM-VGN .vgn-early { color: #7ee07e; }
+.MMM-VGN .vgn-ontime .vgn-time { color: #b8f5b8; }
+.MMM-VGN .vgn-strike { text-decoration: line-through; opacity: 0.6; }
+.MMM-VGN .vgn-cancelled .vgn-time { color: #ff4d4d; }
+.MMM-VGN .vgn-chain { display: flex; align-items: center; gap: 0.25em; }
+.MMM-VGN .vgn-leg { display: inline-flex; align-items: center; gap: 0.2em; }
+.MMM-VGN .vgn-icon { height: 1.1em; width: 1.1em; }
+.MMM-VGN .vgn-line { color: #fff; }
+.MMM-VGN .vgn-sep { color: #888; }
+.MMM-VGN .vgn-sub { font-size: 0.75em; line-height: 1.2; max-width: 20em; overflow: hidden; text-overflow: ellipsis; }
+.MMM-VGN .vgn-label { font-size: 0.8em; }
+.MMM-VGN .vgn-until { text-align: right; }
+.MMM-VGN .vgn-infos { margin-top: 0.4em; max-width: 26em; white-space: normal; color: #ffcc66; line-height: 1.25; }
+.MMM-VGN .vgn-info + .vgn-info { margin-top: 0.2em; }
+.MMM-VGN .vgn-walk { color: #9ab; white-space: nowrap; display: flex; align-items: center; gap: 0.15em; }
+.MMM-VGN .vgn-walk .vgn-icon { height: 1.2em; width: 1em; }
+.MMM-VGN .vgn-dep { min-width: 4.2em; }

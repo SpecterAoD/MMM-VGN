@@ -1,0 +1,13 @@
+{
+  "name": "MMM-VGN",
+  "version": "1.0.0",
+  "description": "MagicMirror² module: next public transport connections in the VGN area (Nuremberg, Franconia) with delays and disruptions",
+  "main": "MMM-VGN.js",
+  "author": "SpecterAoD",
+  "license": "MIT",
+  "keywords": ["magic mirror", "magicmirror", "public transport", "vgn", "vag", "nürnberg", "nuremberg", "fahrplan"],
+  "repository": { "type": "git", "url": "https://github.com/SpecterAoD/MMM-VGN" },
+  "scripts": { "test": "node --test test/",
+    "preview": "node tools/preview.js" },
+  "engines": { "node": ">=18" }
+}

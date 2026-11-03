@@ -1,0 +1,11 @@
+{
+  "LOADING": "Lade Verbindungen …",
+  "NONE": "keine Verbindungen",
+  "CANCELLED": "fällt aus",
+  "VIA": "über",
+  "ARR": "an",
+  "NOW": "jetzt",
+  "IN_MIN": "in {min} min",
+  "LEAVE_NOW": "jetzt los",
+  "LEAVE_IN": "los in {min} min"
+}

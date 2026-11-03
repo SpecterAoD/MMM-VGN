@@ -1,0 +1,11 @@
+{
+  "LOADING": "Loading connections …",
+  "NONE": "no connections",
+  "CANCELLED": "cancelled",
+  "VIA": "via",
+  "ARR": "arr",
+  "NOW": "now",
+  "IN_MIN": "in {min} min",
+  "LEAVE_NOW": "leave now",
+  "LEAVE_IN": "leave in {min} min"
+}
